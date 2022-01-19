@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Saira";
+  src: url("Saira-Regular.ttf") format("truetype");
+}
+
+html {
+	font-family: "Saira";
+}
+
+.info {
+    left: 0;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+
+.legend {
+	margin-top: 0px;
+	text-transform: uppercase;
+}
+
+h1 {
+	font-size: 120px;
+	margin-bottom: 0px;
+}
