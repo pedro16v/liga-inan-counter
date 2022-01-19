@@ -15,7 +15,7 @@
 
     function getStats() {
 
-        var source = "http://li-stats.citroenices.com/";
+        var source = "http://li-stats.citroenices.com/api";
 
         $.ajax({
             url: source,
