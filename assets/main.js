@@ -2,7 +2,7 @@
     'use strict';
 
     function count60seconds() {
-        clearInterval(timer);
+        
         var count = 59, timer = setInterval(function() {
             $("#counter").html(count--);
             
