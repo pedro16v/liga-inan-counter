@@ -12,6 +12,8 @@ html {
     position: absolute;
     text-align: center;
     width: 100%;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
 .legend {
@@ -23,10 +25,12 @@ h1 {
 	font-size: 120px;
   margin-bottom: 0px;
   margin-top: 25px;
+  margin-bottom: 25px;
+  font-size: 5rem;
 }
 
 .logo {
-  margin-top: 100px;
+  max-width: 65%;
 }
 
 .small {
