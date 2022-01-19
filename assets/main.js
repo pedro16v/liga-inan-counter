@@ -39,10 +39,6 @@
         });
     }
 
-    $('.info > h1').change(function(){
-        
-    });
-
     getStats();
 
 }())
